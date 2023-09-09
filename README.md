@@ -9,6 +9,8 @@ Finally, with our last chasis, our team member managed to include proper holes f
 You can find link to our final chasis design which we made in fusion 360 with a days worth of pre-experience
 
 Moving on to the soldering and electrical integration part
+The times during bot making were full of ups and downs but in the end we didn't give up and tried our best. The soldering part was really fun, the connection between ESP01 and MPU was a bit complicated but taking a look at the circuit diagram the solder design could be done easily(photo attached), the soldering connections at corner did give a bit problem, but just using some extra solder it could be resolved, the solder connection for SONAR were also done from circuit diagram.
+The conveners liked the soldering done by our team, and the comments were overwhelming! Overall it was a great experience, every member in the team made their best efforts despite the bot not working several times, we continued to move on and not give up!!
 
 Finally here is our code which includes the basic driving instructions along with Ultrasonic detector and LED dependencies, Ultrasonic and motor dependencies which allowed the detector to detect when our bot came in close proximity to a wall and automatically stop and at the same time show the distance to the nearest wall which lied in front of the bot
 
