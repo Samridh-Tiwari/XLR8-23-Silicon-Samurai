@@ -14,7 +14,7 @@ The conveners liked the soldering done by our team, and the comments were overwh
 
 Finally here is our code which includes the basic driving instructions along with Ultrasonic detector and LED dependencies, Ultrasonic and motor dependencies which allowed the detector to detect when our bot came in close proximity to a wall and automatically stop and at the same time show the distance to the nearest wall which lied in front of the bot
 
-
+With this you have got a brief overview of how to make a bot and you are free to add your own creativity and ideas to make your bot unique
 #include <WiFi.h>
 #include <esp_now.h>
 
@@ -273,3 +273,4 @@ if(cm<5){
   delay(5000);
 }
 }
+
